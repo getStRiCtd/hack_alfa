@@ -4,5 +4,5 @@
 
 ## Teammates
 [getStRiCtd](https://github.com/getStRiCtd) - Обучение модели. Pipeline.  
-[GoncharovYan](https://github.com/GoncharovYan) - Предобработка данных
+[GoncharovYan](https://github.com/GoncharovYan) - Предобработка данных.  
 [Зайцева Дарья] - Предобработка данных. Визуализация.
