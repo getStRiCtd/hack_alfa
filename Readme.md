@@ -1,5 +1,5 @@
 # Baltic Alfa Hack 2023
-<img src='https://top20brands.ru/userfiles/%D0%B0%D0%BB%D1%8C%D1%84%D0%B0_1.png'>
+<img src='https://top20brands.ru/userfiles/%D0%B0%D0%BB%D1%8C%D1%84%D0%B0_1.png'>  
 ## Описание задачи
 Прогнозирование оттока клиентов банка. Клиент считается ушедшим если остуствуют операции по счету (target_1) или закрыт РКО (target_2).  
 Для каждого из таргетов определить вероятность.  
